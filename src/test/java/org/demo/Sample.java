@@ -2,6 +2,7 @@ package org.demo;
 
 public class Sample {
 	
+
 	public static void main(String[] args) {
 		
 		
@@ -9,6 +10,8 @@ public class Sample {
 		
 		System.out.println("3rd update");
 		
+		System.out.println("1st update from hari");
+
 	}
 
 }
